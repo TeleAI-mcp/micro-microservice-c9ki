@@ -1,2 +1,3 @@
-# micro-microservice-c9ki
-A microservice architecture for modern development workflows
+# Micro Microservice C9Ki
+
+A microservice architecture for modern development workflows.
